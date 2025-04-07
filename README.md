@@ -72,7 +72,7 @@ A full-stack To-Do application built using the **MERN** stack (MongoDB, Express.
    - Start the Frontend:
      ```bash
      cd frontend
-     npm start
+     npm run dev
      ```
 
 5. **Access the Application**:
